@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B4wnTJYGH+o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elabo\\Documents\\GitHub\\FSharp-Scripts\\Runners\\Runners\\Runners.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elabo\\.nuget\\packages\\fsharp.core\\8.0.300\\fsharp.core.8.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
